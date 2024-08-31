@@ -8,5 +8,11 @@
   "keywords": [],
   "author": "Valentin Gamboa - @gamboavalentin",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "playwright": "1.46.1"
+  },
+  "devDependencies": {
+    "standard": "17.1.0"
+  }
 }
